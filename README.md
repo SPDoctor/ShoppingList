@@ -3,7 +3,7 @@
 
 ![ShoppingList Client-side Web Part](WebPart.png)
 
-IThis is a very simple client-side web part to demonstrate TDD (Test-driven Development)
+This is a very simple client-side web part to demonstrate TDD (Test-driven Development)
 for client-side code using the SharePoint Framework.
 The web part renders the contents of a list called "ShoppingList" in the site.
 
