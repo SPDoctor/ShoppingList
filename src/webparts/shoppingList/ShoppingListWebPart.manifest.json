@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "75f37909-3c93-4558-a7dd-a21a18f2cd2a",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "75f37909-3c93-4558-a7dd-a21a18f2cd2a",
+    "group": { "default": "Under Development" },
+    "title": { "default": "ShoppingList" },
+    "description": { "default": "Demonstration client-side web part with unit tests" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "ShoppingList"
+    }
+  }]
+}
